@@ -4,7 +4,7 @@ const server = require('http').createServer(app)
 let io = require('socket.io')(server, {
     cors: {
       origin: "http://localhost:3000",
-      methods: ["GET", "POST"]
+      methods: ["GET", "POST"],
     }
   })
 io.on("connection",(socket)=>{
