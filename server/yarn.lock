@@ -148,9 +148,9 @@ engine.io-parser@~4.0.0:
     base64-arraybuffer "0.1.4"
 
 engine.io@~4.1.0:
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/engine.io/-/engine.io-4.1.0.tgz#d8ac90a09ed9fc703abf87023f1e1815e33f044e"
-  integrity sha512-vW7EAtn0HDQ4MtT5QbmCHF17TaYLONv2/JwdYsq9USPRZVM4zG7WB3k0Nc321z8EuSOlhGokrYlYx4176QhD0A==
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/engine.io/-/engine.io-4.1.1.tgz#9a8f8a5ac5a5ea316183c489bf7f5b6cf91ace5b"
+  integrity sha512-t2E9wLlssQjGw0nluF6aYyfX8LwYU8Jj0xct+pAhfWfv/YrBn6TSNtEYsgxHIfaMqfrLx07czcMg9bMN6di+3w==
   dependencies:
     accepts "~1.3.4"
     base64id "2.0.0"
@@ -482,6 +482,6 @@ vary@^1, vary@~1.1.2:
   integrity sha1-IpnwLG3tMNSllhsLn3RSShj2NPw=
 
 ws@~7.4.2:
-  version "7.4.2"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-7.4.2.tgz#782100048e54eb36fe9843363ab1c68672b261dd"
-  integrity sha512-T4tewALS3+qsrpGI/8dqNMLIVdq/g/85U98HPMa6F0m6xTbvhXU6RCQLqPH3+SlomNV/LdY6RXEbBpMH6EOJnA==
+  version "7.4.3"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-7.4.3.tgz#1f9643de34a543b8edb124bdcbc457ae55a6e5cd"
+  integrity sha512-hr6vCR76GsossIRsr8OLR9acVVm1jyfEWvhbNjtgPOrfvAlKzvyeg/P6r8RuDjRyrcQoPQT7K0DGEPc7Ae6jzA==
